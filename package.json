@@ -1,0 +1,16 @@
+{
+  "name": "newapp",
+  "version": "1.0.0",
+  "description": "Sample app for using ArcGIS JS API with TypeScript",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["arcgis", "esri"],
+  "author": "rrubalcava@esri.com",
+  "license": "MIT",
+  "dependencies": {
+    "@types/arcgis-js-api": "^3.18.33",
+    "dojo-typings": "^1.11.5"
+  }
+}

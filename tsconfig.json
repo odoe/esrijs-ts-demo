@@ -1,0 +1,12 @@
+{
+  "compileOnSave": true,
+  "compilerOptions": {
+    "target": "es5",
+    "module": "amd",
+    "sourceMap": true
+  },
+  "files": [
+    "./src/main.ts",
+    "./typings.d.ts"
+  ]
+}
